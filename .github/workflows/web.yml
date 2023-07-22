@@ -1,4 +1,4 @@
-name: Netology AHJ
+name: hw2_t1
 
 on: [push, pull_request]
 
